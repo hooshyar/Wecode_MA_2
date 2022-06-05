@@ -1,4 +1,7 @@
 # Wecode_MA_2
 List of the great developers of the Wecode Mobile Application Development Bootcamp 2 - 2
 
-Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) | [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar)
+Ali Salim accounts:
+GitHub: https://github.com/AliSalimAlii
+LinkedIn: https://www.linkedin.com/mwlite/in/ali-salim-b42464240
+Stack overflow: https://stackoverflow.com/users/19228038/ali-salim?tab=profile
