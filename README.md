@@ -5,3 +5,33 @@ Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) | [Linkedin](https
 
 
 Ahmed Mohammedseddic Khalil [Github](https://github.com/Ahmedkhalil98) | [Linkedin](https://www.linkedin.com/in/ahmed-khalil-4a5156239/) | [Stack Overflow](https://stackoverflow.com/users/19226414/ahmad-khalil)
+
+ ·        
+login & register screen
+
+
+
+·        
+social media login
+
+
+
+·        
+Profile
+creation and editing
+
+
+
+·        
+multiple vendors
+
+
+
+·        
+Add
+to cart option
+
+
+
+·        
+Schedule Orders
