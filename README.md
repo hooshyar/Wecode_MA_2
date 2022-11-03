@@ -15,9 +15,9 @@ Mohammed Jamal [Github](https://github.com/7amaa) | [LinkedIn](https://www.linke
 Ahmed Mohammedseddic Khalil [Github](https://github.com/Ahmedkhalil98) | [Linkedin](https://www.linkedin.com/in/ahmed-khalil-4a5156239/) | [Stack Overflow](https://stackoverflow.com/users/19226414/ahmad-khalil)</br>
 Ahmad Shakir Khalid [Github](https://github.com/ahmadshakir21) | [Linkedin](https://www.linkedin.com/in/ahmad-shakir-1a6a95226/)</br>
 Barzi Yassin Karim [Github](https://github.com/Barzy-Yasin) | [Linkedin](https://www.linkedin.com/in/barzy-yasin-83734a198/) | [Stack Overflow](https://stackoverflow.com/users/16476966/barzy-yasin)</br>
-Bawer Farhad Hussain [LinkedIn] (https://www.linkedin.com/in/bawerfarhad)| [GitHub] (https://github.com/bawerfarhad) | [Stack overflow] (https://stackoverflow.com/users/email/settings/19239934)</br>
+Bawer Farhad Hussain [LinkedIn](https://www.linkedin.com/in/bawerfarhad)| [GitHub](https://github.com/bawerfarhad) | [Stack overflow](https://stackoverflow.com/users/email/settings/19239934)</br>
 Eissa Ahmed Mohammadamin [GitHub](https://www.linkedin.com/in/eissa-ahmed-mohammadamin-9a351623a/) | [linkedin](https://www.linkedin.com/in/eissa-ahmed-mohammadamin-9a351623a/) | [Stack OverFlow](https://stackoverflow.com/users/edit/19239783  )</br>
-San Samir Boya [Github] https://github.com/softwaresan | [Linkedin] https://www.linkedin.com/in/san-samir-bba549240/ | [Stack Overflow] https://stackoverflow.com/users/19233384/san-samir </br>
+San Samir Boya [Github](https://github.com/softwaresan) | [Linkedin](https://www.linkedin.com/in/san-samir-bba549240/) | [Stack Overflow](https://stackoverflow.com/users/19233384/san-samir) </br>
 Majd Sumar Alfi [Github](https://github.com/MajdAlfi) | [Linkedin](https://www.linkedin.com/in/majd-alfi-985600239/) | [Stack Overflow](https://stackoverflow.com/users/19239316/majd-alfi) </br>
 Araz Zuher  Mohammed [Github](https://github.com/ArazZuher22) | [Linkedin](https://www.linkedin.com/in/araz-zuher-4a7630240) | [Stack Overflow](https://stackoverflow.com/users/19229596/araz)</br>
 Zhir Taha Ali Ways [Github](https://github.com/zhirtaha) | [Linkedin](https://www.linkedin.com/in/zhirtaha/) | [Stack Overflow](https://stackoverflow.com/users/12309769/zhir)</br>
