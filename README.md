@@ -8,4 +8,5 @@ Osama Hatam [Github](https://github.com/osamaahatam) | [Linkedin](https://www.li
 Aram mohamad esmail [Github](https://github.com/arammohamd) | [Linkedin](https://www.linkedin.com/in/aram-muhamad-487334240/) | [Stack Overflow](https://stackoverflow.com/users/19230827/aram-mohamad)</br>
 Miran Amanj Asaad [Github](https://github.com/miran18-prog) | [Linkedin](https://www.linkedin.com/in/miran-amanj-77181b165/) | [Stack Overflow](https://stackoverflow.com/users/14818848/miran-amanj)</br>
 Alina Sdqi Mohammed [Github](https://github.com/alinnaaa) | [Linkedin](https://www.linkedin.com/in/alina-sdqi-7a6a69217/)</br>
+Ali Salim [Github](https://github.com/AliSalimAlii) | [Linkedin](https://www.linkedin.com/mwlite/in/ali-salim-b42464240) | [Stack Overflow](https://stackoverflow.com/users/19228038/ali-salim?tab=profile)</br>
 
