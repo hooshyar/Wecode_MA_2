@@ -27,4 +27,4 @@ Ari Ahmed Ibrahim [Github](https://github.com/areeahmed) | [Linkedin](https://ww
 Ramiyar yusf [Github](https://github.com/ramiyar2) | [Linkedin](https://www.linkedin.com/in/ramyar-yusf-393a40203/) | [Stack Overflow](https://stackoverflow.com/users/19226911/ramyar-yusf) </br>
 Safin Saber Nori [Github](https://github.com/Safin9) | [Linkedin](https://www.linkedin.com/in/safin-saber-233677207/) | [Stack Overflow](https://stackoverflow.com/users/19226099/safin-saber-nori)</br>
 Hevar Tofiq Hama [Github](https://github.com/RageOfKurd) | [Linkedin](https://www.linkedin.com/in/hevar-tofiq-649524240/) | [Stack Overflow](https://stackoverflow.com/users/16681812/hevar-tofiq) </br>
-
+Binar Talib Younis [Github](https://github.com/binar-talib) | [Linkedin](https://www.linkedin.com/in/binar-talib-592b02186/) | [Stack Overflow](https://stackoverflow.com/users/19231887/binar-talib) </br>
