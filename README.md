@@ -20,4 +20,5 @@ Eissa Ahmed Mohammadamin [GitHub](https://www.linkedin.com/in/eissa-ahmed-mohamm
 San Samir Boya [Github] https://github.com/softwaresan | [Linkedin] https://www.linkedin.com/in/san-samir-bba549240/ | [Stack Overflow] https://stackoverflow.com/users/19233384/san-samir </br>
 Majd Sumar Alfi [Github](https://github.com/MajdAlfi) | [Linkedin](https://www.linkedin.com/in/majd-alfi-985600239/) | [Stack Overflow](https://stackoverflow.com/users/19239316/majd-alfi) </br>
 Araz Zuher  Mohammed [Github](https://github.com/ArazZuher22) | [Linkedin](https://www.linkedin.com/in/araz-zuher-4a7630240) | [Stack Overflow](https://stackoverflow.com/users/19229596/araz)</br>
+Zhir Taha Ali Ways [Github](https://github.com/zhirtaha) | [Linkedin](https://www.linkedin.com/in/zhirtaha/) | [Stack Overflow](https://stackoverflow.com/users/12309769/zhir)</br>
 
