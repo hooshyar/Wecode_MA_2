@@ -19,3 +19,5 @@ Bawer Farhad Hussain [LinkedIn] (https://www.linkedin.com/in/bawerfarhad)| [GitH
 Eissa Ahmed Mohammadamin [GitHub](https://www.linkedin.com/in/eissa-ahmed-mohammadamin-9a351623a/) | [linkedin](https://www.linkedin.com/in/eissa-ahmed-mohammadamin-9a351623a/) | [Stack OverFlow](https://stackoverflow.com/users/edit/19239783  )</br>
 San Samir Boya [Github] https://github.com/softwaresan | [Linkedin] https://www.linkedin.com/in/san-samir-bba549240/ | [Stack Overflow] https://stackoverflow.com/users/19233384/san-samir </br>
 Majd Sumar Alfi [Github](https://github.com/MajdAlfi) | [Linkedin](https://www.linkedin.com/in/majd-alfi-985600239/) | [Stack Overflow](https://stackoverflow.com/users/19239316/majd-alfi) </br>
+Araz Zuher  Mohammed [Github](https://github.com/ArazZuher22) | [Linkedin](https://www.linkedin.com/in/araz-zuher-4a7630240) | [Stack Overflow](https://stackoverflow.com/users/19229596/araz)</br>
+
