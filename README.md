@@ -14,4 +14,4 @@ Harez Habil Hama Ali [Github](https://github.com/Harez2020) | [Linkedin](https:/
 Mohammed Jamal [Github](https://github.com/7amaa) | [LinkedIn](https://www.linkedin.com/in/mohammed-jamal-60ba8119a/) | [Stack Overflow](https://stackoverflow.com/users/19230102/mohammed-jamal)</br>
 Ahmed Mohammedseddic Khalil [Github](https://github.com/Ahmedkhalil98) | [Linkedin](https://www.linkedin.com/in/ahmed-khalil-4a5156239/) | [Stack Overflow](https://stackoverflow.com/users/19226414/ahmad-khalil)</br>
 Ahmad Shakir Khalid [Github](https://github.com/ahmadshakir21) | [Linkedin](https://www.linkedin.com/in/ahmad-shakir-1a6a95226/)</br>
-
+Barzi Yassin Karim [Github](https://github.com/Barzy-Yasin) | [Linkedin](https://www.linkedin.com/in/barzy-yasin-83734a198/) | [Stack Overflow](https://stackoverflow.com/users/16476966/barzy-yasin)</br>
