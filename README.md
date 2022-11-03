@@ -1,7 +1,5 @@
 # Wecode_MA_2
-
 List of the great developers of the Wecode Mobile Application Development Bootcamp
-
 
 Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) | [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar) </br>
 Shene Mahmood M.Rashid [Github](https://github.com/Nina2498) | [Linkedin](https://www.linkedin.com/in/shene-mahmood-38a304222/) | [Stack Overflow](https://stackoverflow.com/users/19234255/shene-m-rashid)</br>
@@ -13,6 +11,6 @@ Ali Salim [Github](https://github.com/AliSalimAlii) | [Linkedin](https://www.lin
 Astera Mohammed Noori [Github](https://github.com/astera96) | [Linkedin](https://www.linkedin.com/in/astera-mohammed-96732a240/) | [Stack Overflow](https://stackoverflow.com/users/19230629/asteramohammed)</br>
 mustafa Dilshad Khalid [Github](https://github.com/t00fi) | [Linkedin](https://www.linkedin.com/in/mustafa-dilshad-7252a41b1/) | [Stack Overflow](https://stackoverflow.com/users/12716917/mustafa)</br>
 Harez Habil Hama Ali [Github](https://github.com/Harez2020) | [Linkedin](https://www.linkedin.com/in/harez-habeel/) | [Stack Overflow](https://stackoverflow.com/users/10622449/)</br>
-
+Mohammed Jamal [Github](https://github.com/7amaa) | [LinkedIn](https://www.linkedin.com/in/mohammed-jamal-60ba8119a/) | [Stack Overflow](https://stackoverflow.com/users/19230102/mohammed-jamal)</br>
 
 
