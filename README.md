@@ -224,4 +224,4 @@ Ranj kamal kanabi [Github](https://github.com/Ranj-kamal) |  [Linkedin](https://
 Dwarozh Kakamad Noori  [Github](https://github.com/dwarozh-177)  |   [Stack Overflow](https://stackoverflow.com/users/17595098/dwarozh-k-noori)
 
 
-### The coach: Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) | [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar) </br>
+#### The coach: Hooshyar [Github](https://github.com/hooshyar) | [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar) </br>
